@@ -1,0 +1,1 @@
+## This repo contains sample code and folder structure which are used in my blog article about Pipenv: https://blog.entirely.digital/pipenv-better-dev-workflow
